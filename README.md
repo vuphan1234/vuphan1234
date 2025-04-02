@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I'm Vu Phan  
+🚀 Backend Developer | Passionate about Web Development | Continuous Learner  
 
-<!--
-**vuphan1234/vuphan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 About Me  
+- 💻 I specialize in **PHP (Laravel), Node.js (Express.js) & Database Management**  
+- 📚 Currently learning **Docker, Laravel, and Agile Development**  
+- 🏗️ Building a **marketplace management platform**  
+- 🌍 Open to **collaboration** on exciting projects  
 
-Here are some ideas to get you started:
+### 📌 Skills  
+- 💻 Programming: PHP, JavaScript, TypeScript, SQL  
+- 🔧 Frameworks: Laravel, Express.js, Vue.js, Angular  
+- 🗄️ Databases: MySQL, MongoDB  
+- 🐳 DevOps: Docker, CI/CD  
+- 🔥 Other: REST API, MVC Architecture, AJAX  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in touch  
+- 💬 Ask me about **backend development, databases, and API design**  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile/)  
+
+![Vu Phan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuphan1234&show_icons=true&theme=radical)  
